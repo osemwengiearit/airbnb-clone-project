@@ -63,3 +63,14 @@ A well-designed booking system ensures a smooth experience for users. It reduces
 ### Why Design Properties Matter
 
 Identifying color schemes and typography from a mockup helps maintain design consistency, improves the user experience, and ensures the final product reflects the intended brand identity. It also saves time for developers and designers by making styling decisions clear and unified.
+
+## Project Roles and Responsibilities
+
+- **Project Manager:** Oversees timeline, coordinates team, manages deliverables.
+- **Frontend Developers:** Implement UI components and ensure responsive design.
+- **Backend Developers:** Builds APIs, manages the database, implements business logic.
+- **Designers:** Creates mockups, maintains design system, ensures UX quality.
+- **QA/Testers:** Writes test cases, performs testing, reports bugs.
+- **DevOps Engineers:** Manages deployment, CI/CD pipeline, server infrastructure.
+- **Product Owner:** Defines requirements, prioritizes features, and represents the interests of stakeholders.
+- **Scrum Master:** Facilitates agile processes, removes blockers, and organizes meetings.
