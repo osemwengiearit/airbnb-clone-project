@@ -74,3 +74,25 @@ Identifying color schemes and typography from a mockup helps maintain design con
 - **DevOps Engineers:** Manages deployment, CI/CD pipeline, server infrastructure.
 - **Product Owner:** Defines requirements, prioritizes features, and represents the interests of stakeholders.
 - **Scrum Master:** Facilitates agile processes, removes blockers, and organizes meetings.
+
+## UI Component Patterns
+
+These are the key reusable components that will be designed for consistency and responsiveness throughout the application:
+
+### Navbar
+
+- Contains logo, search bar, user navigation menu
+- Responsive on all screen sizes
+- May include a dropdown menu for logged-in users
+
+### Property Card
+
+- Displays property image, price, location, and rating
+- Includes a “favorite” or “like” button
+- Responsive layout for grid view on the home page
+
+### Footer
+
+- Contains site navigation links
+- Includes company/contact info
+- Social media icons and copyright
